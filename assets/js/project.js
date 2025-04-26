@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:5077,
+to:5166,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -15997,11 +15997,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-1776:{
+1757:{
 ts:''
 }
 ,
-1757:{
+1776:{
 ts:''
 }
 
@@ -34366,11 +34366,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-2690:{
+2671:{
 ts:''
 }
 ,
-2671:{
+2690:{
 ts:''
 }
 
@@ -34399,9 +34399,9 @@ uid:1783,
 dn:'Slide1783',
 visible:'1'
 },
-StAd0:{
-from:541,
-to:3342,
+StAd1:{
+from:5167,
+to:7968,
 src:'ar/26126.mp3',
 du:93404,
 saup:[{
@@ -37147,8 +37147,8 @@ vb:[-2,-2,-1,-1]
 Slide13072:{
 lb:'more examples of run-on and sentence fragments',
 id:13072,
-from:541,
-to:3906,
+from:5167,
+to:8532,
 iols:0,
 i360qs:false,
 sdu:112.2,
@@ -68771,11 +68771,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-9491:{
+9510:{
 ts:''
 }
 ,
-9510:{
+9491:{
 ts:''
 }
 
@@ -77490,11 +77490,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-25569:{
+25550:{
 ts:''
 }
 ,
-25550:{
+25569:{
 ts:''
 }
 
@@ -86209,11 +86209,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-26096:{
+26115:{
 ts:''
 }
 ,
-26115:{
+26096:{
 ts:''
 }
 
@@ -122046,7 +122046,7 @@ dsType:1,
 dsWidth:80
 }
 ,
-slideAudios:'StAd0',
+slideAudios:'StAd1',
 vestr:0,
 vim:0,
 slides:'Slide495,Slide654,Slide769,Slide12855,Slide1783,Slide13072,Slide4103,Slide15554,Slide8965,Slide25024,Slide25570,Slide7159,Slide10520,Slide10889,Slide11866,Slide16756,Slide17076,Slide16536,Slide10267',
@@ -122091,7 +122091,7 @@ enableNavigation:true,
 tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":495,"isQuizSlide":false,"label":"Welcome slide","slideVisited":false,"type":"slide","id":"Slide495"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":654,"isQuizSlide":false,"label":"What you will review","slideVisited":false,"type":"slide","id":"Slide654"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":769,"isQuizSlide":false,"label":"Simple and Compound Sentences","slideVisited":false,"type":"slide","id":"Slide769"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":12855,"isQuizSlide":false,"label":"More examples simple and compund","slideVisited":false,"type":"slide","id":"Slide12855"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1783,"isQuizSlide":false,"label":"Run ons vs sentence fragments","slideVisited":false,"type":"slide","id":"Slide1783"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":13072,"isQuizSlide":false,"label":"more examples of run-on and sentence fragments","slideVisited":false,"type":"slide","id":"Slide13072"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4103,"isQuizSlide":false,"label":"Nouns","slideVisited":false,"type":"slide","id":"Slide4103"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":15554,"isQuizSlide":false,"label":"more nouns","slideVisited":false,"type":"slide","id":"Slide15554"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":8965,"isQuizSlide":false,"label":"Capitalization","slideVisited":false,"type":"slide","id":"Slide8965"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":25024,"isQuizSlide":false,"label":"Capitalized Term Examples","slideVisited":false,"type":"slide","id":"Slide25024"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":25570,"isQuizSlide":false,"label":"capitalized term examples","slideVisited":false,"type":"slide","id":"Slide25570"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":7159,"isQuizSlide":false,"label":"Review","slideVisited":false,"type":"slide","id":"Slide7159"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10520,"isQuizSlide":true,"label":"Match the column 1","slideVisited":false,"type":"slide","id":"Slide10520"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":10889,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide10889"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":11866,"isQuizSlide":true,"label":"True or false 1","slideVisited":false,"type":"slide","id":"Slide11866"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16756,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide16756"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":17076,"isQuizSlide":true,"label":"Multiple choice 3","slideVisited":false,"type":"slide","id":"Slide17076"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":16536,"isQuizSlide":false,"label":"Blank 6","slideVisited":false,"type":"slide","id":"Slide16536"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":10267,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide10267"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
-usedFonts:'["Arial","Georgia","AppleGothic"]'
+usedFonts:'["AppleGothic","Arial","Georgia"]'
 },
 trecs:[{
 link:495,
@@ -122115,7 +122115,7 @@ text:[]
 }
 ,{
 link:13072,
-text:['""']
+text:['""','""']
 }
 ,{
 link:4103,
@@ -122740,7 +122740,7 @@ resources:['dr/012218.svg','dr/012445.svg','dr/012457.svg']
 ,{
 slideID:4,
 ResourceList:{
-resources:['dr/01736.svg','dr/02341.png','dr/02425.png','dr/02509.png','dr/02593.png','dr/03241.jpg','dr/03244.jpg','dr/0626.svg']
+resources:['dr/01736.svg','dr/01922.svg','dr/01969.svg','dr/02016.svg','dr/02063.svg','dr/02110.svg','dr/02341.png','dr/02425.png','dr/02509.png','dr/02593.png','dr/03238.svg','dr/03241.jpg','dr/03244.jpg','dr/0626.svg']
 }
 
 }
@@ -122754,35 +122754,35 @@ resources:['dr/012218.svg','dr/012445.svg','dr/012457.svg']
 ,{
 slideID:6,
 ResourceList:{
-resources:['dr/01736.svg','dr/0626.svg','dr/09689.jpg','dr/09692.jpg','dr/09698.jpg','dr/09701.jpg']
+resources:['dr/01736.svg','dr/02788.svg','dr/0626.svg','dr/09689.jpg','dr/09692.jpg','dr/09698.jpg','dr/09701.jpg']
 }
 
 }
 ,{
 slideID:7,
 ResourceList:{
-resources:['dr/012218.svg','dr/012445.svg','dr/012457.svg','dr/015680.png','dr/015804.png','dr/015928.png','dr/016052.png','dr/016176.png','dr/016300.png']
+resources:['dr/012218.svg','dr/012445.svg','dr/012457.svg','dr/015638.svg','dr/015651.svg','dr/015680.png','dr/015804.png','dr/015928.png','dr/016052.png','dr/016176.png','dr/016300.png','dr/016416.svg']
 }
 
 }
 ,{
 slideID:8,
 ResourceList:{
-resources:['dr/01736.svg','dr/02809.png','dr/02870.png','dr/02922.png','dr/02982.png','dr/03035.png','dr/03095.png','dr/03148.png','dr/0626.svg','dr/09687.png']
+resources:['dr/01736.svg','dr/02788.svg','dr/02809.png','dr/02870.png','dr/02922.png','dr/02982.png','dr/03035.png','dr/03095.png','dr/03148.png','dr/0626.svg','dr/09687.png']
 }
 
 }
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/012445.svg','dr/012457.svg','dr/02753.png','dr/02809.png','dr/02870.png','dr/02922.png','dr/02982.png','dr/03035.png','dr/03095.png','dr/03148.png']
+resources:['dr/012445.svg','dr/012457.svg','dr/02753.png','dr/02788.svg','dr/02809.png','dr/02870.png','dr/02922.png','dr/02982.png','dr/03035.png','dr/03095.png','dr/03148.png']
 }
 
 }
 ,{
 slideID:10,
 ResourceList:{
-resources:['dr/012445.svg','dr/012457.svg','dr/02753.png','dr/02809.png','dr/02870.png','dr/02922.png','dr/02982.png','dr/03035.png','dr/03095.png','dr/03148.png']
+resources:['dr/012445.svg','dr/012457.svg','dr/02753.png','dr/02788.svg','dr/02809.png','dr/02870.png','dr/02922.png','dr/02982.png','dr/03035.png','dr/03095.png','dr/03148.png']
 }
 
 }
